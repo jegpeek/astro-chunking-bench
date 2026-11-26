@@ -1,0 +1,127 @@
+survey,file,plane,dtype,shape,codec,tile,raw_MB,stored_MB
+rubin,calexp_LSSTCam_g_g_6_5025071500368_R12_S21_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.785999
+rubin,calexp_LSSTCam_g_g_6_5025071500368_R12_S21_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.609165
+rubin,calexp_LSSTCam_g_g_6_5025071500368_R12_S21_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,46.298734
+rubin,calexp_LSSTCam_g_g_6_5026090300344_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.538891
+rubin,calexp_LSSTCam_g_g_6_5026090300344_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.681981
+rubin,calexp_LSSTCam_g_g_6_5026090300344_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,53.493849
+rubin,calexp_LSSTCam_g_g_6_5028091600962_R22_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.574703
+rubin,calexp_LSSTCam_g_g_6_5028091600962_R22_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.674678
+rubin,calexp_LSSTCam_g_g_6_5028091600962_R22_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,48.55871
+rubin,calexp_LSSTCam_g_g_6_5029122700126_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.558004
+rubin,calexp_LSSTCam_g_g_6_5029122700126_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.699976
+rubin,calexp_LSSTCam_g_g_6_5029122700126_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,51.561863
+rubin,calexp_LSSTCam_i_i_39_5025071901096_R22_S12_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.760451
+rubin,calexp_LSSTCam_i_i_39_5025071901096_R22_S12_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.657123
+rubin,calexp_LSSTCam_i_i_39_5025071901096_R22_S12_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,47.272594
+rubin,calexp_LSSTCam_i_i_39_5026011100176_R31_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.775501
+rubin,calexp_LSSTCam_i_i_39_5026011100176_R31_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.665815
+rubin,calexp_LSSTCam_i_i_39_5026011100176_R31_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,47.50866
+rubin,calexp_LSSTCam_i_i_39_5028071201758_R22_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.799954
+rubin,calexp_LSSTCam_i_i_39_5028071201758_R22_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.651385
+rubin,calexp_LSSTCam_i_i_39_5028071201758_R22_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,46.05205
+rubin,calexp_LSSTCam_i_i_39_5029122700166_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.750127
+rubin,calexp_LSSTCam_i_i_39_5029122700166_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.671352
+rubin,calexp_LSSTCam_i_i_39_5029122700166_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,47.200986
+rubin,calexp_LSSTCam_r_r_57_5025071901136_R22_S12_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.612726
+rubin,calexp_LSSTCam_r_r_57_5025071901136_R22_S12_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.673085
+rubin,calexp_LSSTCam_r_r_57_5025071901136_R22_S12_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,47.945242
+rubin,calexp_LSSTCam_r_r_57_5026081800910_R12_S12_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.563882
+rubin,calexp_LSSTCam_r_r_57_5026081800910_R12_S12_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.683647
+rubin,calexp_LSSTCam_r_r_57_5026081800910_R12_S12_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,47.788103
+rubin,calexp_LSSTCam_r_r_57_5027091800124_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.782956
+rubin,calexp_LSSTCam_r_r_57_5027091800124_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.631419
+rubin,calexp_LSSTCam_r_r_57_5027091800124_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,46.350559
+rubin,calexp_LSSTCam_r_r_57_5029122700206_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.595362
+rubin,calexp_LSSTCam_r_r_57_5029122700206_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.706796
+rubin,calexp_LSSTCam_r_r_57_5029122700206_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,47.965766
+rubin,calexp_LSSTCam_u_u_24_5025072000558_R23_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.765944
+rubin,calexp_LSSTCam_u_u_24_5025072000558_R23_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.603118
+rubin,calexp_LSSTCam_u_u_24_5025072000558_R23_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,48.820426
+rubin,calexp_LSSTCam_u_u_24_5026090901137_R12_S10_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.756299
+rubin,calexp_LSSTCam_u_u_24_5026090901137_R12_S10_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.582059
+rubin,calexp_LSSTCam_u_u_24_5026090901137_R12_S10_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,48.829584
+rubin,calexp_LSSTCam_u_u_24_5027062901181_R22_S12_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.763708
+rubin,calexp_LSSTCam_u_u_24_5027062901181_R22_S12_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.592767
+rubin,calexp_LSSTCam_u_u_24_5027062901181_R22_S12_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,48.915518
+rubin,calexp_LSSTCam_u_u_24_5027100100913_R12_S10_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.755846
+rubin,calexp_LSSTCam_u_u_24_5027100100913_R12_S10_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.578174
+rubin,calexp_LSSTCam_u_u_24_5027100100913_R12_S10_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,48.828783
+rubin,calexp_LSSTCam_y_y_10_5025071901176_R22_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.79563
+rubin,calexp_LSSTCam_y_y_10_5025071901176_R22_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.583006
+rubin,calexp_LSSTCam_y_y_10_5025071901176_R22_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,46.000106
+rubin,calexp_LSSTCam_y_y_10_5026090300460_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.794428
+rubin,calexp_LSSTCam_y_y_10_5026090300460_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.588417
+rubin,calexp_LSSTCam_y_y_10_5026090300460_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,46.199222
+rubin,calexp_LSSTCam_y_y_10_5027120700104_R21_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.792962
+rubin,calexp_LSSTCam_y_y_10_5027120700104_R21_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.598307
+rubin,calexp_LSSTCam_y_y_10_5027120700104_R21_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,46.075092
+rubin,calexp_LSSTCam_y_y_10_5029122700242_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.798765
+rubin,calexp_LSSTCam_y_y_10_5029122700242_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.604739
+rubin,calexp_LSSTCam_y_y_10_5029122700242_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,46.116927
+rubin,calexp_LSSTCam_z_z_20_5025071901212_R22_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.797724
+rubin,calexp_LSSTCam_z_z_20_5025071901212_R22_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.622096
+rubin,calexp_LSSTCam_z_z_20_5025071901212_R22_S02_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,46.088202
+rubin,calexp_LSSTCam_z_z_20_5026090300484_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.792233
+rubin,calexp_LSSTCam_z_z_20_5026090300484_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.637652
+rubin,calexp_LSSTCam_z_z_20_5026090300484_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,46.259468
+rubin,calexp_LSSTCam_z_z_20_5027091800212_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.694674
+rubin,calexp_LSSTCam_z_z_20_5027091800212_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.615491
+rubin,calexp_LSSTCam_z_z_20_5027091800212_R23_S01_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,44.991398
+rubin,calexp_LSSTCam_z_z_20_5029122700290_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,IMAGE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,59.791379
+rubin,calexp_LSSTCam_z_z_20_5029122700290_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,MASK,BITPIX 32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,0.651079
+rubin,calexp_LSSTCam_z_z_20_5029122700290_R22_S11_u_descdm_preview_data_step1_w_2024_12_20240324T050830Z.fits,VARIANCE,BITPIX -32,4004x4096,FITS tile GZIP_2 lossless,1x4096,65.601536,46.263301
+roman,Roman_WAS_simple_model_F184_1510_1.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_F184_1510_1.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_F184_1510_1.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_F184_9899_6.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_F184_9899_6.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_F184_9899_6.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_F184_15297_12.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_F184_15297_12.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_F184_15297_12.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_H158_774_4.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_H158_774_4.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_H158_774_4.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_H158_11857_9.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_H158_11857_9.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_H158_11857_9.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_H158_16949_17.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_H158_16949_17.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_H158_16949_17.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_J129_4182_6.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_J129_4182_6.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_J129_4182_6.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_J129_11695_6.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_J129_11695_6.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_J129_11695_6.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_J129_16880_8.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_J129_16880_8.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_J129_16880_8.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_K213_2665_6.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_K213_2665_6.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_K213_2665_6.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_K213_10202_9.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_K213_10202_9.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_K213_10202_9.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_K213_15821_3.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_K213_15821_3.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_K213_15821_3.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_W146_3513_6.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_W146_3513_6.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_W146_3513_6.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_W146_8881_1.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_W146_8881_1.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_W146_8881_1.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_W146_16073_14.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_W146_16073_14.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_W146_16073_14.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_Y106_5453_3.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_Y106_5453_3.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_Y106_5453_3.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_Y106_9451_8.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_Y106_9451_8.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_Y106_9451_8.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_Y106_16771_7.fits.gz,SCI,float64,4088x4088,whole-file gzip (.fits.gz),entire file,133.693952,
+roman,Roman_WAS_simple_model_Y106_16771_7.fits.gz,ERR,float32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,
+roman,Roman_WAS_simple_model_Y106_16771_7.fits.gz,DQ,uint32,4088x4088,whole-file gzip (.fits.gz),entire file,66.846976,

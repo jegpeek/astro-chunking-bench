@@ -1,0 +1,33 @@
+FRAMES ['detector', 'v2v3', 'v2v3vacorr', 'v2v3corr', 'world']
+STEP detector -> CompoundModel 12
+STEP v2v3 -> CompoundModel 4
+STEP v2v3vacorr -> CompoundModel 15
+STEP v2v3corr -> CompoundModel 5
+STEP world -> None 
+BBOX ModelBoundingBox(
+SCA r0034201001001001001_0001_wfi01_f087_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201001001002001_0001_wfi01_f106_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201001001003001_0001_wfi01_f129_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201001001004001_0001_wfi01_f146_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201001001005001_0001_wfi01_f158_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201001001006001_0001_wfi01_f184_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201003001001010_0001_wfi01_f087_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201003001006010_0001_wfi01_f184_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201004001004001_0001_wfi01_f146_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201005001001018_0003_wfi18_f087_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201005001006018_0003_wfi18_f184_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201006001001018_0003_wfi18_f146_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201008001004001_0001_wfi01_f106_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201008001005001_0001_wfi01_f129_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201008001006010_0001_wfi01_f158_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201013001001018_0003_wfi18_f106_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201013001002018_0003_wfi18_f129_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+SCA r0034201013001003018_0003_wfi18_f158_cal sip_deg 5 fwd max 0.000 mas rms 0.000 mas | inv max 0.00000 px
+RUBIN dp1_2024111600111_6 ctype RA---TAN-SIP sip 5 fwd max 0.223 mas rms 0.060 mas (0.2"/px => 0.0011 px)
+RUBIN dp1_2024110900215_0 ctype RA---TAN-SIP sip 5 fwd max 0.663 mas rms 0.165 mas (0.2"/px => 0.0033 px)
+RUBIN dp1_2024110800271_0 ctype RA---TAN-SIP sip 5 fwd max 0.171 mas rms 0.059 mas (0.2"/px => 0.0009 px)
+RUBIN dp1_2024120900331_3 ctype RA---TAN-SIP sip 5 fwd max 0.207 mas rms 0.063 mas (0.2"/px => 0.0010 px)
+RUBIN dp1_2024120700335_1 ctype RA---TAN-SIP sip 5 fwd max 0.165 mas rms 0.050 mas (0.2"/px => 0.0008 px)
+RUBIN dp1_2024120500137_1 ctype RA---TAN-SIP sip 5 fwd max 0.217 mas rms 0.062 mas (0.2"/px => 0.0011 px)
+RUBIN dp1_2024110800302_0 ctype RA---TAN-SIP sip 5 fwd max 0.160 mas rms 0.065 mas (0.2"/px => 0.0008 px)
+RUBIN dp1_2024112900285_4 ctype RA---TAN-SIP sip 5 fwd max 0.041 mas rms 0.016 mas (0.2"/px => 0.0002 px)

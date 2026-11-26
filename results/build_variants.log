@@ -1,0 +1,8 @@
+extract: 218 exposures, 7.98 GB read, 136s
+tm_o14_lz4: 533100 rows, 5.162 GB, stamp 43s, write+sync 29s
+tm_o14_zstd1: 533100 rows, 4.347 GB, stamp 37s, write+sync 25s
+tm_o13: 146552 rows, 3.983 GB, stamp 39s, write+sync 15s
+tm_o12: 43464 rows, 3.748 GB, stamp 34s, write+sync 13s
+blob_o14: 533100 rows, 4.290 GB, stamp 40s, write+sync 17s
+blob_o14_lz4: 533100 rows, 5.147 GB, stamp 16s, write+sync 23s
+ALL DONE 468s

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# host-generated benchmark state (not committed)
+butler_transfer.json
+stores/
+stores_v5/
